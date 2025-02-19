@@ -1,3 +1,31 @@
+## yasmin (humble) - 3.1.0-1
+
+The packages in the `yasmin` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble yasmin --override-release-repository-push-url git@github.com:revyos-ros/yasmin-release.git` on `Wed, 19 Feb 2025 06:31:38 -0000`
+
+These packages were released:
+- `yasmin`
+- `yasmin_demos`
+- `yasmin_msgs`
+- `yasmin_ros`
+- `yasmin_viewer`
+
+Version of package(s) in repository `yasmin`:
+
+- upstream repository: https://github.com/uleroboticsgroup/yasmin.git
+- release repository: https://github.com/revyos-ros/yasmin-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.0.3-2`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## yasmin (humble) - 3.0.3-2
 
 The packages in the `yasmin` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble yasmin --override-release-repository-push-url git@github.com:revyos-ros/yasmin-release.git` on `Tue, 24 Dec 2024 07:10:34 -0000`
