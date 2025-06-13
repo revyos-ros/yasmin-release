@@ -1,3 +1,31 @@
+## yasmin (jazzy) - 3.2.0-1
+
+The packages in the `yasmin` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy yasmin --override-release-repository-push-url git@github.com:revyos-ros/yasmin-release.git` on `Fri, 13 Jun 2025 06:21:43 -0000`
+
+These packages were released:
+- `yasmin`
+- `yasmin_demos`
+- `yasmin_msgs`
+- `yasmin_ros`
+- `yasmin_viewer`
+
+Version of package(s) in repository `yasmin`:
+
+- upstream repository: https://github.com/uleroboticsgroup/yasmin.git
+- release repository: https://github.com/revyos-ros/yasmin-release.git
+- rosdistro version: `3.2.0-1`
+- old version: `3.1.0-1`
+- new version: `3.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## yasmin (jazzy) - 3.1.0-1
 
 The packages in the `yasmin` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy yasmin --override-release-repository-push-url git@github.com:revyos-ros/yasmin-release.git` on `Wed, 05 Mar 2025 04:17:09 -0000`
